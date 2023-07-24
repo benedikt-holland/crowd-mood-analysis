@@ -1,0 +1,14 @@
+cv2
+pandas
+numpy
+PIL
+matplotlib
+sklearn
+seaborn
+#Raspberry Pi libaries
+adafruit_amg88xx
+adafruit_dht
+adafruit_sgp30
+spidev
+busio
+board
